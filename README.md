@@ -1,6 +1,6 @@
 # Hunflair corpora
 This repository re-hosts biomedical Named Entity Recognition corpora for [HunFlair](https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR.md) which are no longer available at 
-their original location. If you use these corpora to produce results for publication, please cite the original 
+their original location. If you use one of these corpora to produce results for publication, please cite the original 
 publications (see list below):
 
 
