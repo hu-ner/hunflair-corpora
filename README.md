@@ -21,9 +21,8 @@ publications (see list below):
   publisher={Oxford University Press}
 }
 ```
-
-<br/>
-Website: [https://turkunlp.org/Cell-line-recognition/](https://turkunlp.org/Cell-line-recognition/)
+Website: [Link](https://turkunlp.org/Cell-line-recognition/)
+<br/> 
 
 - **Gellus**
 ```
@@ -38,9 +37,8 @@ Website: [https://turkunlp.org/Cell-line-recognition/](https://turkunlp.org/Cell
   publisher={Oxford University Press}
 }
 ```
-
+Website: [Link](https://turkunlp.org/Cell-line-recognition/)
 <br/> 
-Website: [https://turkunlp.org/Cell-line-recognition/](https://turkunlp.org/Cell-line-recognition/)
 
 - **OSIRIS (v0.2)**
 ```
