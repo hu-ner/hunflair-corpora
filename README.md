@@ -21,7 +21,8 @@ publications (see list below):
   publisher={Oxford University Press}
 }
 ```
-Website: [Link](https://turkunlp.org/Cell-line-recognition/)
+Website: [https://turkunlp.org/Cell-line-recognition/](https://turkunlp.org/Cell-line-recognition/) <br />
+Paper: [https://doi.org/10.1093/bioinformatics/btv570](https://doi.org/10.1093/bioinformatics/btv570)
 <br/> 
 
 - **Gellus**
@@ -37,7 +38,8 @@ Website: [Link](https://turkunlp.org/Cell-line-recognition/)
   publisher={Oxford University Press}
 }
 ```
-Website: [Link](https://turkunlp.org/Cell-line-recognition/)
+Website: [https://turkunlp.org/Cell-line-recognition/](https://turkunlp.org/Cell-line-recognition/) <br />
+Paper: [https://doi.org/10.1093/bioinformatics/btv570](https://doi.org/10.1093/bioinformatics/btv570)
 <br/> 
 
 - **OSIRIS (v0.2)**
@@ -53,6 +55,7 @@ Website: [Link](https://turkunlp.org/Cell-line-recognition/)
   publisher={Springer}
 }
 ```
+Paper: [https://doi.org/10.1186/1471-2105-9-84](https://doi.org/10.1186/1471-2105-9-84)
 
 - **Variome**
 ```
@@ -65,3 +68,4 @@ Website: [Link](https://turkunlp.org/Cell-line-recognition/)
   publisher={Oxford Academic}
 }
 ```
+Paper: [https://doi.org/10.1093%2Fdatabase%2Fbat019](https://doi.org/10.1093%2Fdatabase%2Fbat019)
